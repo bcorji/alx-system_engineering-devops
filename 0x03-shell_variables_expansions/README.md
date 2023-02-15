@@ -1,3 +1,3 @@
 0-alias
 
-A script that creates an alias.
+This script creates an alias.
