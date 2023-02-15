@@ -9,3 +9,9 @@ This script prints "Hello, World" followed by a newline to the standard output.
 
 1-confused_smiley
 This script displays a confused smiley "(Ôo)'.
+
+
+
+0-alias
+
+This script creates an alias.
