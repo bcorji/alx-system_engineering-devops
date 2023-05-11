@@ -1,0 +1,2 @@
+#!/bin/bash
+ls -1a | sed -e 's/\(.*\)\/$/\1\/,/' | sort -d -f | sed -e 's/,$/\//'
